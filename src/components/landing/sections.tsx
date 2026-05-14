@@ -3,8 +3,13 @@ import { Badge } from "@/components/ui/badge"
 export const sections = [
   {
     id: 'hero',
-    subtitle: <Badge variant="outline" className="text-amber-400 border-amber-400">Школьный проект</Badge>,
-    title: "Горное дело: в глубь Земли.",
+    subtitle: (
+      <div className="flex flex-col gap-2">
+        <Badge variant="outline" className="text-amber-400 border-amber-400 w-fit">Школьный проект · 5Б класс</Badge>
+        <span className="text-neutral-500 text-sm">Автор: Сухинин Николай</span>
+      </div>
+    ),
+    title: "Горное дело",
     image: 'https://cdn.poehali.dev/projects/1ab6a588-3953-45d3-bfd4-a2a2a090a8f0/files/406de7c3-c6e8-4f67-8892-a8d48685473d.jpg',
     showButton: true,
     buttonText: 'Узнать больше'

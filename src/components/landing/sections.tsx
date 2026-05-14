@@ -69,4 +69,10 @@ export const sections = [
     showButton: true,
     buttonText: 'Изучить проект'
   },
+  {
+    id: 'thanks',
+    title: 'Спасибо за внимание!',
+    content: 'Ученик 5Б класса: Сухинин Николай',
+    image: 'https://cdn.poehali.dev/projects/1ab6a588-3953-45d3-bfd4-a2a2a090a8f0/files/eecee4c8-58fe-405d-bbe1-2454133a89c7.jpg',
+  },
 ]

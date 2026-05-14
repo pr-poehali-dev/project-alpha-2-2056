@@ -9,7 +9,6 @@ export const sections = [
       </div>
     ),
     title: "Горное дело",
-    image: 'https://cdn.poehali.dev/projects/1ab6a588-3953-45d3-bfd4-a2a2a090a8f0/files/406de7c3-c6e8-4f67-8892-a8d48685473d.jpg',
     showButton: true,
     buttonText: 'Узнать больше'
   },

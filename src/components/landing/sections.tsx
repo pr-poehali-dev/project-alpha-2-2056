@@ -5,8 +5,7 @@ export const sections = [
     id: 'hero',
     subtitle: (
       <div className="flex flex-col gap-2">
-        <Badge variant="outline" className="text-amber-400 border-amber-400 w-fit">Школьный проект · 5Б класс</Badge>
-        <span className="text-neutral-500 text-sm">Автор: Сухинин Николай</span>
+        <span className="text-neutral-500 text-sm">Ученик 5Б класса: Сухинин Николай</span>
       </div>
     ),
     title: "Горное дело",

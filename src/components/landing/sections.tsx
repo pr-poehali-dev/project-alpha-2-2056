@@ -64,7 +64,6 @@ export const sections = [
     id: 'future',
     title: 'Будущее отрасли',
     content: 'Роботы, дроны и ИИ меняют горное дело. Уже сегодня автономные машины работают в шахтах без людей, а добыча редкоземельных металлов нужна для каждого смартфона.',
-    image: 'https://cdn.poehali.dev/projects/1ab6a588-3953-45d3-bfd4-a2a2a090a8f0/files/f3f83085-ff0b-4553-bc96-ea3f0d42a017.jpg',
     showButton: true,
     buttonText: 'Изучить проект'
   },
